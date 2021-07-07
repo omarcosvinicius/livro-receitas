@@ -5,3 +5,4 @@
 - Strogonoff de Frango
 - Pavê
 - Bolo de cenoura
+- Carne Assada
